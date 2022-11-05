@@ -12,3 +12,4 @@ Time taken: 6 to 8 hours today over a period of 2 days (3rd and 4th Nov. 2022)
 Files:
 wordle-words - spreadsheet - has the collection of wordle words used in this project. Also, split the word into letters, to help test the results of this project.
 wordle-explore-6.py - python code - includes notes about what I am learning along the way.
+wordle_graph.png - graph showing the patterns for lette placement in wordle results
